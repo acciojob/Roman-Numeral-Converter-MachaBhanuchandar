@@ -7,7 +7,7 @@ function convertToRoman(num) {
         ['C', 100],
 		['XC',90],
 	    ['L', 50],
-		['xL',40],
+		['XL',40],
 		['X', 10],
 		['IX',9],
 		['V', 5],
